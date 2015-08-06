@@ -2,6 +2,7 @@
 * **Course:** [COSCS-445/COSCS-545][class-site]
 * ** MK419  2:30-3:20 MWF**
 * **Instructor:** Audris Mockus, [audris@utk.edu](mailto:audris@utk.edu)
+* **TA:** Tapajit Dey, [tapjdey@gmail.com](mailto:tapjdey@gmail.com)
 * **Need help?**
 
 Simple rules for questions: 
@@ -13,6 +14,7 @@ Simple rules for questions:
   * answers to questions: [Stack Overflow](http://stackoverflow.com/)
 1. Look through [issues](https://github.com/fdac/syllabus/issues)
 1. Post the question as an issue
+1. Office hours: TBD Location: TBD
 1. Ask instructor: [email](mailto:audris@utk.edu) for 1-on-1 help, or
    to set up a time to meet 
 
