@@ -173,25 +173,25 @@ Please respect the terms of use and/or license of any code you find,
 and if you re-implement or duplicate an algorithm or code from
 elsewhere, credit the original source with an inline comment.
 
-## Homework 0 (Due Aug 22)
+## Homework 0 (Due Aug 21)
 
 1. GitHub
    * Sign up for [GitHub](https://github.com/) if not already signed
      up. Pick default (free plan).	 
    * Create a pull request on
-      [students repository](https://github.com/fdac/students) so I
+      [students repository](https://github.com/fdac15/students) so I
       can add you to the to the GitHub group for the course.
-	  1. Start by [**forking** the students repository](https://github.com/fdac/students)
+	  1. Start by [**forking** the students repository](https://github.com/fdac15/students)
 	  1. Add your GitHub username as USERNAME.md (click on propose
          new file)
 	  1. Click on Create Pull Request
-   * Install [virtual machine][vminstall] (kindly provided by Markus Iturriaga Woelfel)
+   * Install [virtual machine][vminstall] 
 1. Familiarize yourself with GitHub workflow
    * Walk through [workflow](#workflow) using
-	[Homework0](https://github.com/fdac/Homework0) notebook
+	[Homework0](https://github.com/fdac15/Homework0) notebook
     
 ## Workflow
-1. To start, [**fork** the repository][forking] for the exercise/project (found under [github.com/fdac](https://github.com/fdac))
+1. To start, [**fork** the repository][forking] for the exercise/project (found under [github.com/fdac15](https://github.com/fdac15))
 1. [**Clone**][ref-clone] the repository to your computer.
 1. View, create, and edit your ipython notebooks or other files
 1. [**commit**][ref-commit] changes to complete your solution.
@@ -243,7 +243,7 @@ This class assumes you are confident with this material, but in case you need a 
 
 
 <!-- Links -->
-[vminstall]:http://www.eecs.utk.edu/resources/it/kb/cosc-594fda
+[docker]:http://www.eecs.utk.edu/resources/it/kb/docker
 [class-site]:http://web.eecs.utk.edu/~audris/fdac
 [deliberate-practice]:http://www.psy.fsu.edu/faculty/ericsson/ericsson.exp.perf.html
 [pull-request]:https://help.github.com/articles/creating-a-pull-request
