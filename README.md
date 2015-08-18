@@ -173,22 +173,24 @@ Please respect the terms of use and/or license of any code you find,
 and if you re-implement or duplicate an algorithm or code from
 elsewhere, credit the original source with an inline comment.
 
-## Homework 0 (Due Aug 21)
+## Initial assignment (Due Aug 21)
 
 1. GitHub
    * Sign up for [GitHub](https://github.com/) if not already signed
-     up. Pick default (free plan).	 
+     up. Pick default (free plan).
+   * [Create ssh key](https://help.github.com/articles/generating-ssh-keys/)
+      - Do steps 1, 2, 4, and 5
+      - Do Not Share Your Private Key in id_rsa
    * Create a pull request on
       [students repository](https://github.com/fdac15/students) so I
       can add you to the to the GitHub group for the course.
 	  1. Start by [**forking** the students repository](https://github.com/fdac15/students)
 	  1. Add your GitHub username as USERNAME.md (click on propose
          new file)
+          1. Add your netid and publickey key (in id_rsa.pub) to the existing file list.txt
 	  1. Click on Create Pull Request
-   * Install [virtual machine][vminstall] 
 1. Familiarize yourself with GitHub workflow
-   * Walk through [workflow](#workflow) using
-	[Homework0](https://github.com/fdac15/Homework0) notebook
+   * Walk through [workflow](#workflow) 
     
 ## Workflow
 1. To start, [**fork** the repository][forking] for the exercise/project (found under [github.com/fdac15](https://github.com/fdac15))
