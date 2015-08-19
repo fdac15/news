@@ -14,7 +14,7 @@ Simple rules for questions:
   * answers to questions: [Stack Overflow](http://stackoverflow.com/)
 1. Look through [issues](https://github.com/fdac/syllabus/issues)
 1. Post the question as an issue
-1. Office hours: TBD Location: TBD
+1. Office hours: TBD Location: MK620
 1. Ask instructor: [email](mailto:audris@utk.edu) for 1-on-1 help, or
    to set up a time to meet 
 
