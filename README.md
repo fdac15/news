@@ -2,7 +2,7 @@
 * **Course:** [COSCS-445/COSCS-545][class-site]
 * ** MK419  2:30-3:20 MWF**
 * **Instructor:** Audris Mockus, [audris@utk.edu](mailto:audris@utk.edu)
-* **TA:** Tapajit Dey, [tapjdey@gmail.com](mailto:tapjdey@gmail.com)
+* **TA:** Tapajit Dey, [tdey2@vols.utk.edu](mailto:tdey2@vols.utk.edu)
 * **Need help?**
 
 Simple rules for questions: 
