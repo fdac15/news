@@ -181,7 +181,7 @@ elsewhere, credit the original source with an inline comment.
    * [Create ssh key](https://help.github.com/articles/generating-ssh-keys/)
       - Do steps 1, 2, 4, and 5
       - Do Not Share Your Private Key in id_rsa
-   * Create a pull request on
+   * [Fork](https://help.github.com/articles/fork-a-repo/) and create a [pull request](https://help.github.com/articles/using-pull-requests/) on
       [students repository](https://github.com/fdac15/students) so I
       can add you to the to the GitHub group for the course.
 	  1. Start by [**forking** the students repository](https://github.com/fdac15/students)
