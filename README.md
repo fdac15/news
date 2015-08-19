@@ -186,8 +186,8 @@ elsewhere, credit the original source with an inline comment.
       can add you to the to the GitHub group for the course.
 	  1. Start by [**forking** the students repository](https://github.com/fdac15/students)
 	  1. Add your GitHub username as USERNAME.md (click on add 
-         new file next to the https://github.com/fdac15/students/ link)
-          1. Add your netid and publickey key (in id_rsa.pub) to https://github.com/fdac15/students/list.txt
+         new file next to the [https://github.com/fdac15/students/+] link)
+          1. Add your netid and publickey key (in id_rsa.pub) to list.txt
 	  1. Click on Create Pull Request
 1. Familiarize yourself with GitHub workflow
    * Walk through [workflow](#workflow) 
