@@ -1,3 +1,7 @@
+# As noted in the initial assignement please create github id and ssh key, then fork and create a PR
+  Putty is common ssh client on windows
+  [how to generate ssh key on windows](https://docs.joyent.com/public-cloud/getting-started/ssh-keys/generating-an-ssh-key-manually/manually-generating-your-ssh-key-in-windows)
+
 # Syllabus for "Fundamentals of Digital Archeology"
 * **Course:** [COSCS-445/COSCS-545][class-site]
 * ** MK405  2:30-3:20 MWF**
