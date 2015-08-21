@@ -5,7 +5,8 @@
   * Putty is common ssh client on windows
   * [Instructions on how to generate ssh key runniing windows](https://docs.joyent.com/public-cloud/getting-started/ssh-keys/generating-an-ssh-key-manually/manually-generating-your-ssh-key-in-windows)
   * ![public ssh key from puttygen](https://github.com/fdac15/news/blob/master/puttykey.png "public ssh key from puttygen")
-
+  * Save the private key and use it in your putty ssh session
+  * Copy the public key (highlited in the image) to add to the list.txt 
 
 # Syllabus for "Fundamentals of Digital Archeology"
 * **Course:** [COSCS-445/COSCS-545][class-site]
