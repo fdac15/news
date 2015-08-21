@@ -1,6 +1,14 @@
 # Syllabus for "Fundamentals of Digital Archeology"
 
 ## News
+
+### [Aug 21] Homework Due Aug 24
+  * Please submit your ghid.md file and public ssh key if you have not don so: I need it to add you to the class organization on github
+  * Please try to ssh to da2 using windows (or mac/linux) instructions: if you are able to do that, then on your laptop browser enter http://localhost:8888 to access your personal ipython notbook server: you can create python2, pythonn3, and R notebooks. We will primarily use python3 and, later in the course, R
+  * If you'd prefer to run the ipython notebooks on your own laptop (not from the sever) please install docker infrastructure per https://www.docker.com/toolbox. 
+  * The docker image used for the class is audris/ipython-pymongo:v9
+
+
 ### [Aug 19] As noted in the initial assignement please create github id and ssh key, then fork and create a PR
   * Putty is a common ssh client for windows
   * [Instructions on how to generate ssh key running windows](https://docs.joyent.com/public-cloud/getting-started/ssh-keys/generating-an-ssh-key-manually/manually-generating-your-ssh-key-in-windows)
