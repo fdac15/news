@@ -4,10 +4,14 @@
 ### [Aug 19] As noted in the initial assignement please create github id and ssh key, then fork and create a PR
   * Putty is a common ssh client for windows
   * [Instructions on how to generate ssh key running windows](https://docs.joyent.com/public-cloud/getting-started/ssh-keys/generating-an-ssh-key-manually/manually-generating-your-ssh-key-in-windows)
-  * ![public ssh key from puttygen](https://github.com/fdac15/news/blob/master/puttykey.png "public ssh key from puttygen")
-  * Save the private key and use it in your putty ssh session
-  * Copy the public key (highlited in the image) to add to the list.txt 
-
+    1. ![public ssh key from puttygen](https://github.com/fdac15/news/blob/master/puttykey.png "public ssh key from puttygen")
+    1. Save the private key and use it in your putty ssh session
+    1. Copy the public key (highlited in the image) to add to the list.txt 
+    1. Now work on creating and saving session 
+    1. ![port forwarding](https://github.com/fdac15/news/blob/master/puttyport.png "select port forwarding")
+    1. ![authentication](https://github.com/fdac15/news/blob/master/puttyauth.png "select secret key that was saved above")
+    1. ![session](https://github.com/fdac15/news/blob/master/puttysession.png "start putty session")
+    1. Don't forget to save the session before clicking open  
 # Syllabus for "Fundamentals of Digital Archeology"
 * **Course:** [COSCS-445/COSCS-545][class-site]
 * ** MK405  2:30-3:20 MWF**
