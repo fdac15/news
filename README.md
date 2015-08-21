@@ -4,7 +4,7 @@
 ### [Aug 19] As noted in the initial assignement please create github id and ssh key, then fork and create a PR
   * Putty is common ssh client on windows
   * [Instructions on how to generate ssh key runniing windows](https://docs.joyent.com/public-cloud/getting-started/ssh-keys/generating-an-ssh-key-manually/manually-generating-your-ssh-key-in-windows)
-  * ![public ssh key from puttygen](https://github.com/fdac15/news/raw/master/puttygen.png "public ssh key from puttygen")
+  * ![public ssh key from puttygen](https://github.com/fdac15/news/blob/master/puttygen.png "public ssh key from puttygen")
 
 
 # Syllabus for "Fundamentals of Digital Archeology"
