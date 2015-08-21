@@ -5,7 +5,7 @@
 ### [Aug 21] Homework Due Aug 24
   * Please submit your ghid.md file and public ssh key if you have not done so yet: I need it to add you to the class organization on github and key to enable paswordless login
   * Please accept github group membership: I am adding you to the group once you submit a pull request, but you still need to accept it. Some of the homeworks and slides will be in private repositories for which you will need group membership. 
-  * Please try to ssh to da2 using windows (or mac/linux) instructions: if you are able to do that, then on your laptop browser enter http://localhost:8888 to access your personal ipython notbook server. You can create python2, pythonn3, and R notebooks. We will primarily use python3 and, later in the course, R
+  * Please try to ssh to da2 using windows (or mac/linux) instructions: if you are able to do that, then on your laptop browser enter http://localhost:8888 to access your personal ipython notebook server. You can create python2, python3, and R notebooks. We will primarily use python3 and, later in the course, R
   * If you'd prefer to run the ipython notebooks on your own laptop (not from the sever) please install docker infrastructure per https://www.docker.com/toolbox. 
       * The docker image used for the class is audris/ipython-pymongo:v9
   * The slides for the lecture today are in https://github.com/fdac15/presentations
