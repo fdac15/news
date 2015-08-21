@@ -7,11 +7,16 @@
     1. ![public ssh key from puttygen](https://github.com/fdac15/news/blob/master/puttykey.png "public ssh key from puttygen")
     1. Save the private key and use it in your putty ssh session
     1. Copy the public key (highlited in the image) to add to the list.txt 
-    1. Now work on creating and saving session 
+    1. Now work on creating and saving session: start putty and go to connection/ssh/tunnels, enter source and destination and click *add*
     1. ![port forwarding](https://github.com/fdac15/news/blob/master/puttyport.png "select port forwarding")
+    1. Go to  go to connection/ssh/Auth and brows for your private key
     1. ![authentication](https://github.com/fdac15/news/blob/master/puttyauth.png "select secret key that was saved above")
+    1. Go to  go to session enter hostname and *YOUR PORT* from ports.md in fdac15/students
     1. ![session](https://github.com/fdac15/news/blob/master/puttysession.png "start putty session")
     1. Don't forget to save the session before clicking open  
+
+
+
 # Syllabus for "Fundamentals of Digital Archeology"
 * **Course:** [COSCS-445/COSCS-545][class-site]
 * ** MK405  2:30-3:20 MWF**
