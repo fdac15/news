@@ -7,6 +7,7 @@
     2. playing with ipython notebook
    * If you were not in the class Aug 21, please take a look at the presentation tools.pdf
        in https://github.com/fdac15/presentations
+
 ### [Aug 21] Homework Due Aug 24
   * Please make sure your ghid.md file is not empty and contains meaningful info: check if your .md file is there and not empty and, if not, please submit a pull request.
   * I am still waiting for pull requests with .md file and ssh (in lists.txt) from several of you, please submit your ghid.md file and public ssh key if you have not done so yet. I need it to add you to the class organization on github and key to enable paswordless login
