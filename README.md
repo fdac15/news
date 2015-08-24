@@ -2,12 +2,12 @@
 
 ## News
 ### [Aug 24] Homework Due Aug 26
-  * Some of you already submitted it :-) [fdac15/Homework0](https://github.com/fdac15/): this is an exercise of:
+  * Some of you already submitted it :-) [fdac15/Homework0](https://github.com/fdac15/Homework0): this is an exercise of:
     1. using git command line in your docker container
     2. playing with ipython notebook
-   * If you were not in the class Aug 21, please take a look at the presentation tools.pdf
+  * If you were not in the class Aug 21, please take a look at the presentation tools.pdf
        in https://github.com/fdac15/presentations
-
+  * The lecture slides for today are in prelim.pdf at https://github.com/fdac15/presentations
 ### [Aug 21] Homework Due Aug 24
   * Please make sure your ghid.md file is not empty and contains meaningful info: check if your .md file is there and not empty and, if not, please submit a pull request.
   * I am still waiting for pull requests with .md file and ssh (in lists.txt) from several of you, please submit your ghid.md file and public ssh key if you have not done so yet. I need it to add you to the class organization on github and key to enable paswordless login
