@@ -8,6 +8,7 @@
   * If you were not in the class Aug 21, please take a look at the presentation tools.pdf
        in https://github.com/fdac15/presentations
   * The lecture slides for today are in prelim.pdf at https://github.com/fdac15/presentations
+  * Please let me know if the ssh/notebook are still not working for you
 
 ### [Aug 21] Homework Due Aug 24
   * Please make sure your ghid.md file is not empty and contains meaningful info: check if your .md file is there and not empty and, if not, please submit a pull request.
