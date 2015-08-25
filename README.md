@@ -19,6 +19,8 @@
   * Please try to ssh to da2 using windows (or mac/linux) instructions: if you are able to do that, then on your laptop browser please enter http://localhost:8888 to access your personal ipython notebook server. You can create python2, python3, and R notebooks. We will primarily use python3 and, later in the course, R
   * If you'd prefer to run the ipython notebooks on your own laptop (not from the sever) please install docker infrastructure per https://www.docker.com/toolbox. 
       * The docker image used for the class is audris/ipython-pymongo:v15
+      * You will still need to connect via ssh once you run that docker container on your laptop
+      * You will also need to start 'ipython notebook --no-browser' in the container
   * The slides for the lecture today are in https://github.com/fdac15/presentations
 
 ### [Aug 19] As noted in the initial assignement please create github id and ssh key, then fork and create a PR
