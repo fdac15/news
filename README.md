@@ -1,7 +1,10 @@
 # Syllabus for "Fundamentals of Digital Archeology"
 
 ## News
-### [Aug 26] Will start discussing the first assignment, pairing, other cool stuff
+### [Aug 26] Assignment1 has been introduced
+  * Please fork and clone: let me know if you have any issues
+  * Will be discussing questions issues during class of [Aug 28]
+  * Pay attention to the schedule of activities (Social workflow) in fdac15/Assignment1
 
 ### [Aug 24] Homework Due Aug 26
   * Some of you already submitted it :-) [fdac15/Homework0](https://github.com/fdac15/Homework0): this is an exercise of:
