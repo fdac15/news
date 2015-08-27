@@ -30,17 +30,18 @@
   * On linux/mac
     1. create ~/.ssh/config
 ```
- host da2
+host da2
    hosthostname da2.eecs.utk.edu
    port YUORPORT from students ports.md
    username YOURNETID
 ```
 
+
     1. place your private key in ~/.ssh/id_rsa
     1. Make sure permissions are right
-    ```
-    chmod -R og-rwx ~/.ssh
-    ```
+```
+chmod -R og-rwx ~/.ssh
+```
     
   * Putty is a common ssh client for windows
   * [Instructions on how to generate ssh key running windows](https://docs.joyent.com/public-cloud/getting-started/ssh-keys/generating-an-ssh-key-manually/manually-generating-your-ssh-key-in-windows)
