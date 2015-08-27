@@ -27,6 +27,21 @@
   * The slides for the lecture today (tools.pdf) are in https://github.com/fdac15/presentations
 
 ### [Aug 19] As noted in the initial assignement please create github id and ssh key, then fork and create a PR
+  * On linux/mac
+    1. create ~/.ssh/config
+```
+ host da2
+   hosthostname da2.eecs.utk.edu
+   port YUORPORT from students ports.md
+   username YOURNETID
+```
+
+    1. place your private key in ~/.ssh/id_rsa
+    1. Make sure permissions are right
+    ```
+    chmod -R og-rwx ~/.ssh
+    ```
+    
   * Putty is a common ssh client for windows
   * [Instructions on how to generate ssh key running windows](https://docs.joyent.com/public-cloud/getting-started/ssh-keys/generating-an-ssh-key-manually/manually-generating-your-ssh-key-in-windows)
     1. ![public ssh key from puttygen](https://github.com/fdac15/news/blob/master/puttykey.png "public ssh key from puttygen")
