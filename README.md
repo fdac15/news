@@ -3,6 +3,8 @@
 ## News
 ### [Aug 26] Assignment1 has been introduced
   * Please fork and clone: let me know if you have any issues
+  * Please make sure you go to settings -> enable issues after the fork
+  * To access your peers fork type in https://github.com/GITHUBID/Assignment1
   * Will be discussing questions issues during class of [Aug 28]
   * Pay attention to the schedule of activities (Social workflow) in fdac15/Assignment1
 
