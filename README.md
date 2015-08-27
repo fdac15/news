@@ -30,8 +30,8 @@
 
 ### [Aug 19] As noted in the initial assignement please create github id and ssh key, then fork and create a PR
   * On linux/mac either 
-    1. create .ssh/config
-    	a. create ~/.ssh/config
+    * create .ssh/config
+    	1. create ~/.ssh/config
         ```
          host da2
             hosthostname da2.eecs.utk.edu
@@ -39,13 +39,13 @@
             username YOURNETID
          ```
 
-        a. place your private key in ~/.ssh/id_rsa
-        a. Make sure permissions are right
+        1. place your private key in ~/.ssh/id_rsa
+        1. Make sure permissions are right
          ```
           chmod -R og-rwx ~/.ssh
          ```
-        a. ssh da2
-    1. Or do it directly 
+        1. ssh da2
+    * Or ssh directly 
       ```
        ssh -pYOURPORT -L8888:localhost:8888 -i id_rsa yournetid@da2.eecs.utk.edu
       ```
