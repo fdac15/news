@@ -4,7 +4,7 @@
 ### [Aug 26] Assignment1 has been introduced
   * Please fork and clone: let me know if you have any issues
   * Please make sure you go to settings -> enable issues after the fork
-  * To access your peers fork type in https://github.com/GITHUBID/Assignment1
+  * To your peer's fork is at https://github.com/PEERsGITHUBID/Assignment1
   * Will be discussing questions issues during class of [Aug 28]
   * Pay attention to the schedule of activities (Social workflow) in fdac15/Assignment1
 
@@ -29,6 +29,8 @@
   * The slides for the lecture today (tools.pdf) are in https://github.com/fdac15/presentations
 
 ### [Aug 19] As noted in the initial assignement please create github id and ssh key, then fork and create a PR
+
+### [Configuring ssh]
   * On linux/mac either 
     * create .ssh/config
     	1. create ~/.ssh/config
