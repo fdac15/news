@@ -1,6 +1,12 @@
 # Syllabus for "Fundamentals of Digital Archeology"
 
 ## News
+
+### [Aug 31, Sep 2, Sep 4] Work on the Assignment1 with your peers
+
+### [Aug 28] Questions related to the assignment
+  *
+
 ### [Aug 26] Assignment1 has been introduced
   * Please fork and clone: let me know if you have any issues
   * Please make sure you go to settings -> enable issues after the fork
