@@ -12,7 +12,7 @@
       scp -P YOURPORT da2:Assignment1/fileToBeCopiedFrom .
       ```
       
-     2. Using windows: putty has pscp command line that is similar to scp, but winscp provides more "windows-like" experience. Change the netaid from audris to your netid and also change the port from 9001 to yourport.
+     2. Using windows: putty has pscp command line that is similar to scp, but winscp provides more "windows-like" experience. Change the netid from audris to your netid and also change the port from 9001 to your port (to be found in students/ports.md).
      ![winscp](https://github.com/fdac15/news/blob/master/winscp.png "winscp")
 
 ### [Aug 26] Assignment1 has been introduced
