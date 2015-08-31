@@ -97,7 +97,7 @@ Simple rules for questions:
   * answers to questions: [Stack Overflow](http://stackoverflow.com/)
 1. Look through [issues](https://github.com/fdac/syllabus/issues)
 1. Post the question as an issue
-1. Office hours: MON: 12 pm - 2 pm, TUE: 10 am - 11 am. Location: MK620
+1. Office hours: MON: 1 pm - 2:20 pm, TUE: 9:45 am - 11 am. Location: MK620
      -- TA himself is a student in the class, so he might not be able to assist with everything.
 	However, feel free to contact him if you are having any problems or need any resources to help with anything. 	Even if he is not able to solve everything, he can bring the problem to the instructor's attention. 
 1. Ask instructor: [email](mailto:audris@utk.edu) for 1-on-1 help, or
