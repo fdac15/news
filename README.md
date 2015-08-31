@@ -5,7 +5,13 @@
 ### [Aug 31, Sep 2, Sep 4] Work on the Assignment1 with your peers
 
 ### [Aug 28] Questions related to the assignment
-  *
+  * How to copy files from/to docker container?
+     1. In Mac/Linux (da2 is the host entry in ~/.ssh/config as described below) 
+      ``` 
+      scp -P YOURPORT fileToBeCopiedTo da2:Assignment1
+      scp -P YOURPORT da2:Assignment1/fileToBeCopiedFrom .
+      ```
+     2. Using windows: putty has pscp command line that is similar to scp, but winscp provides more "windows-like" experience. 
 
 ### [Aug 26] Assignment1 has been introduced
   * Please fork and clone: let me know if you have any issues
