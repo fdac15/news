@@ -2,7 +2,16 @@
 
 ## News
 
-### [Aug 31, Sep 2, Sep 4] Work on the Assignment1 with your peers
+### [Sep 2, Sep 4] Work on the Assignment1 with your peers
+
+### [Aug 31] Work on the Assignment1 with your peers
+  * Guttenberg is already blocked
+     1. Download to your laptop then scp to da2:Assignment1 
+     2. Follow example at the end of the latest version of Assignment1.ipnb to red data from file
+  * Text is public domain (sowhere on the web) but not on PG
+     1. Use appropriate url to the text
+  * Text is spread over multiple URLs
+     1. Follow example at the end of the latest version of Assignment1.ipnb
 
 ### [Aug 28] Questions related to the assignment
   * How to copy files from/to docker container?
