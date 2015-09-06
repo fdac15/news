@@ -1,6 +1,12 @@
 # Syllabus for "Fundamentals of Digital Archeology"
 
 ## News
+### [Sep 7] Labor day!
+   * Great progress on Assignment1! A few notes:
+      1. Please crete an issue commonting on your peer's project (above you in the dendrogram) if you have not done so yet.
+      2. Please write at least a paragraph interpreting the observed differences, e.g.,
+         a. Do differences between authors appear to be larger or smaller (or the same) as differences within book of the same author? 
+         b. Why?
 
 ### [Sep 2, Sep 4] Work on the Assignment1 with your peers
 
