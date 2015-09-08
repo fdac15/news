@@ -321,6 +321,7 @@ This class assumes you are confident with this material, but in case you need a 
 #### Other
 
 * [Mining the Social Web, 2nd Edition](http://shop.oreilly.com/product/0636920030195.do)
+* [Interesting data visualizations using D3.js and more](https://www.jasondavies.com/)
 
 ##### R and data analysis
 * Modern Applied Statistics with S (4th Edition) by William
