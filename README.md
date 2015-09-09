@@ -1,6 +1,11 @@
 # Syllabus for "Fundamentals of Digital Archeology"
 
 ## News
+### [Sep 9] Agenda
+   * The remaining questions will be discussed, including in-class presentations on Friday
+   * Potential new assignments
+   * Surprise
+   
 ### [Sep 7] Labor day!
    * Great progress on Assignment1! A few notes:
       1. Please crete an issue commonting on your peer's project (above you in the dendrogram) if you have not done so yet.
