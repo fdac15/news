@@ -1,6 +1,11 @@
 # Syllabus for "Fundamentals of Digital Archeology"
 
 ## News
+### [Sep 21] Results
+
+### [Sep 18] Work on the assignment
+
+### [Sep 16] Clarification of the assignment
 
 ### [Sep 14] Selected Presentations for entire class
    * Will finish data discovery lecture and will give a new assignment
@@ -8,8 +13,15 @@
 ### [Sep 11] Prallel presentations in class
    * Six groups presenting in parallel: presentation is 5min+2m questions
    * Agree on a person to send to next round
-   * Provide a set of issues
    * Groups will be announced before class
+   * Here is what the presentation should touch upon
+      1. What is the question?
+      1. What was the approach?
+      1. What problems did I encounter?
+      1. What results did I get?
+      1. What new ideas did this generate?
+   * The list of problems encountered will be collected and summarized 
+
    
 ### [Sep 9] All have committed and raised/received issues: Congratulations!
    * The current stats on commits/issues are at https://github.com/fdac15/Assignment1/Astats.ipnb
