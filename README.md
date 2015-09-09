@@ -1,11 +1,23 @@
 # Syllabus for "Fundamentals of Digital Archeology"
 
 ## News
-### [Sep 9] Agenda
-   * The remaining questions will be discussed, including in-class presentations on Friday
-   * Potential new assignments
-   * Surprise
+
+### [Sep 14] Selected Presentations for entire class
+   * Will finish data discovery lecture and will give a new assignment
    
+### [Sep 11] Prallel presentations in class
+   * Six groups presenting in parallel: presentation is 5min+2m questions
+   * Agree on a person to send to next round
+   * Provide a set of issues
+   * Groups will be announced before class
+   
+### [Sep 9] All have committed and raised/received issues: Congratulations!
+   * The current stats on commits/issues are at https://github.com/fdac15/Assignment1/Astats.ipnb
+   * The lecture material is at https://github.com/fdac15/presentations dd.pdf
+   * Example of using the stemmer at the end of https://github.com/fdac15/Assignment1/Astats.ipnb
+   * How to enable R in ipython notebook: will restart docker containers Sunday at 5AM, if it is an issue for you (are running a long script) please let me know. The home directory/files will be preserved.
+   * Look forward to presentations on Friday!
+
 ### [Sep 7] Labor day!
    * Great progress on Assignment1! A few notes:
       1. Please crete an issue commonting on your peer's project (above you in the dendrogram) if you have not done so yet.
