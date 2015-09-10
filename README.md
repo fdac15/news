@@ -13,7 +13,14 @@
 ### [Sep 11] Prallel presentations in class
    * Six groups presenting in parallel: presentation is 5min+2m questions
    * Agree on a person to send to next round
-   * Groups will be announced before class
+   * Groups were obtained using a complicated text analysis to get representation of different groups, similarities and dissimilarities of text in commits and issues 
+      1. jtyler7 joseph346  chumekaboom kylebshr nwilder0 gsimpson723 
+      1. rerwin21 ryanwagn kdunn13 teaguejt awachte tjonesster 
+      1. matsuobasho stonecoldhughes justa-ghost w4d3 sbradfo5 tapjdey
+      1. ryancaldwell1 jlong49 codyjae jaredmichaelsmith davpcunn spicychckn
+      1. beamad12 almasaeed2010 mbenkhayal milanjpatel rroper1 inthesunset cwilker
+      1. millermoore nateige jalomas7 rhoque-icl mtwe curtis017 alexklibisz
+
    * Here is what the presentation should touch upon
       1. What is the question?
       1. What was the approach?
