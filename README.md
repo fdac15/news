@@ -12,7 +12,7 @@
    
 ### [Sep 11] Prallel presentations in class
    * Six groups presenting in parallel: presentation is 5min+2m questions
-   * Agree on a person to send to next round
+   * Agree on a person to send to next round: each participant in a group gets one vote cast for the presentation (not theirs) they favor: the vote is cast as a comment for an issue naming their group.
    * Groups were obtained using a complicated text analysis to get representation of different groups, similarities and dissimilarities of text in commits and issues 
       1. jtyler7 joseph346  chumekaboom kylebshr nwilder0 gsimpson723 
       1. rerwin21 ryanwagn kdunn13 teaguejt awachte tjonesster 
