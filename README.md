@@ -5,10 +5,14 @@
 
 ### [Sep 18] Work on the assignment
 
-### [Sep 16] Clarification of the assignment
+### [Sep 16] Clarification of the assignment / Assignment1 presentations
 
-### [Sep 14] Selected Presentations for entire class
+### [Sep 14] Discovery
    * Will finish data discovery lecture and will give a new assignment
+   * Selected Presentations for the entire class
+      1. Please vote if you have not done so
+      1. Since the results are not yet available, the selected presentations will be delayed until Wednesday
+      1. I am very impressed with the presentations I have seen on Friday and with the ones I have had a chance to read so far, great work!
    
 ### [Sep 11] Prallel presentations in class
    * Six groups presenting in parallel: presentation is 5min+2m questions
