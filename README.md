@@ -1,11 +1,20 @@
 # Syllabus for "Fundamentals of Digital Archeology"
 
 ## News
-### [Sep 21] Results
 
-### [Sep 18] Work on the assignment
-
-### [Sep 16] Clarification of the assignment / Assignment1 presentations
+### [Sep 21] Introduction to R/modeling
+   * Progress report on the project: Each team provides a 3 min berbal summary of what they achieved so far and what they plan to do.
+   * Other matters
+   
+### [Sep 18] The remaining three presentations: Groups 3, 2, 1
+   * Answers to any questions related to the project
+   * Comments for presentations given on Sep 16
+      1. What is binomial distribution and how to use it?
+      1. More elaborate term selection: Bigrams/Trigrams
+   * Potential data sources for the final project
+   
+### [Sep 16] Thank you for the presenters!
+   * We heard representatives from group 6, 5, and 4. 
 
 ### [Sep 14] Discovery
    * Finish data discovery lecture and discussed a new assignment
