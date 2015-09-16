@@ -13,7 +13,7 @@
       1. More elaborate term selection: Bigrams/Trigrams
    * Potential data sources for the final project
    
-### [Sep 16] Thank you for the presenters!
+### [Sep 16] Great presenters today!
    * We heard representatives from group 6, 5, and 4. 
 
 ### [Sep 14] Discovery
