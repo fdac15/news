@@ -3,7 +3,7 @@
 ## News
 
 ### [Sep 21] Introduction to R/modeling
-   * Progress report on the project: Each team provides a 3 min berbal summary of what they achieved so far and what they plan to do.
+   * Progress report on the project: Each team provides a 3 min verbal summary of what they achieved so far and what they plan to do.
    * Other matters
    
 ### [Sep 18] The remaining three presentations: Groups 3, 2, 1
