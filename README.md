@@ -11,7 +11,7 @@
    * Comments for presentations given on Sep 16
       1. What is binomial distribution and how to use it?
       1. More elaborate term selection: Bigrams/Trigrams
-   * Potential data sources for the final project
+   * Potential [data sources](https://github.com/fdac15/news/blob/master/datasources.md) for the final project
    
 ### [Sep 16] Great presenters today!
    * We heard representatives from group 6, 5, and 4. 
