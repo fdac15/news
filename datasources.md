@@ -8,6 +8,8 @@
 
 * Weather: http://openweathermap.org/api
 
+* [Breaches](https://haveibeenpwned.com/PwnedWebsites)
+
 ## A compilation of sources (a lot of overlap):
 * http://blog.visual.ly/data-sources/
 
