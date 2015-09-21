@@ -2,9 +2,18 @@
 
 ## News
 
+### [Sep 23] Introduction to R/modeling
+  * Will go over the presentation in fdac15/stats
+  * Provide AWS instructions for discovery
+
 ### [Sep 21] Introduction to R/modeling
-   * Progress report on the project: Each team provides a 3 min verbal summary of what they achieved so far and what they plan to do.
-   * Other matters
+   * Progress report on the project: Each team provides a 3 min verbal summary of what they achieved so far and what they plan to do. Challenges:
+      1. Google search API exhausted (utilize other ip on amazon, see below)
+      2. Google search asks for captchas (use bing)
+      3. No public repositories on some forges
+      4. Different (non-REST) apis
+      5. Forge has been decomissioned
+   * Presented example of binomial distribution/R (fdac15/stats)
    
 ### [Sep 18] The remaining three presentations: Groups 3, 2, 1
    * Answers to any questions related to the project
