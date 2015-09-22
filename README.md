@@ -4,7 +4,7 @@
 
 ### [Sep 23] Introduction to R/modeling
   * Will go over the presentation in fdac15/stats
-  * Provide AWS instructions for discovery (see fdac15/discovery)
+  * AWS instructions for discovery (see fdac15/discovery)
 
 ### [Sep 21] Introduction to R/modeling
    * Progress report on the project: Each team provides a 3 min verbal summary of what they achieved so far and what they plan to do. Challenges:
