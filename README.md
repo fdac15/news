@@ -1,6 +1,9 @@
 # Syllabus for "Fundamentals of Digital Archeology"
 
-## News
+## [Sep 25] R/Modelling + AWS + Final Project instructions
+* Updated AWS instructions for discovery (see fdac15/discovery, fdac15/aws)
+* Created FinalProject repo with some instructions (see fdac15/FinalProject)
+* Will finish R presentation, the modelling part
 
 ### [Sep 23] Introduction to R/modeling
   * Will go over the presentation in fdac15/stats
