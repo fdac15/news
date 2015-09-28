@@ -1,10 +1,27 @@
 # Syllabus for "Fundamentals of Digital Archeology"
 
+## [Oct 9]
+* Formal proposals with the objective workplan, etc. for the final project will be presented .
+
+## [Oct 7]
+* Class time reserved for groups to meet and prepare the workplan, primary assignments, and schedule for the final project.
+
+## [Oct 5]
+* Clarification of deliverables for the final project
+
+## [Oct 2]
+* Final report on Discovery project
+* Final project selection: everyone will have a project to work on
+
+## [Sep 30] 
+* Will finish modelling lecture
+* Remaining Final Project sales pitches
+
 ## [Sep 28] Final Project sales pitch, Discovery status
 * A few proposals for the final project will be presented
 * The progress update on the discovery project
   1. The data collection is, presumably over
-  2. This week analyze the results and present the results on Friday (short 3 min presentations)
+  2. This week analyze the results and present the results on Friday (short 3-4 min presentations)
   3. The spreadsheet linked from fdac15/discovery is still empty
 * Other matters
 
