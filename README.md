@@ -1,5 +1,13 @@
 # Syllabus for "Fundamentals of Digital Archeology"
 
+## [Sep 28] Final Project sales pitch, Discovery status
+* A few proposals for the final project will be presented
+* The progress update on the discovery project
+  1. The data collection is, presumably over
+  2. This week analyze the results and present the results on Friday (short 3 min presentations)
+  3. The spreadsheet linked from fdac15/discovery is still empty
+* Other matters
+
 ## [Sep 25] R/Modelling + AWS + Final Project instructions
 * Updated AWS instructions for discovery (see fdac15/discovery, fdac15/aws)
 * Created FinalProject repo with some instructions (see fdac15/FinalProject)
