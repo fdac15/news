@@ -1,13 +1,17 @@
 # Syllabus for "Fundamentals of Digital Archeology"
 
+## [Oct 12]
+* Formal proposals with the objective workplan, etc. for the final project will be presented.
+
 ## [Oct 9]
-* Formal proposals with the objective workplan, etc. for the final project will be presented .
+* Formal proposals with the objective workplan, etc. for the final project will be presented.
 
 ## [Oct 7]
 * Class time reserved for groups to meet and prepare the workplan, primary assignments, and schedule for the final project.
 
 ## [Oct 5]
-* Clarification of deliverables for the final project
+* Final project selection: everyone will have a project to work on
+* Final report on Discovery project T3-6
 
 ## [Oct 2]
 * Final report on Discovery project
