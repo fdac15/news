@@ -14,7 +14,8 @@
   1. The name of the project repository
   1. The list of members
 * Final report on Discovery project T5-8 + last repository of T4
-
+  1. I still don't see all the projects in the google spreadsheet (link from Discovery project)
+ 
 ## [Oct 2]
 * Final report on Discovery project
 * Final project selection: everyone will have a project to work on
