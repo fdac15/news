@@ -10,7 +10,9 @@
 * Class time reserved for groups to meet and prepare the workplan, primary assignments, and schedule for the final project.
 
 ## [Oct 5]
-* Final project selection: everyone will have a project to work on
+* Final project selection: A representative from each project please send me:
+  1. The name of the project repository
+  1. The list of members
 * Final report on Discovery project T5-8 + last repository of T4
 
 ## [Oct 2]
