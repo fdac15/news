@@ -11,7 +11,7 @@
 
 ## [Oct 5]
 * Final project selection: everyone will have a project to work on
-* Final report on Discovery project T3-6
+* Final report on Discovery project T5-8 + last repository of T4
 
 ## [Oct 2]
 * Final report on Discovery project
