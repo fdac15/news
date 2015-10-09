@@ -17,7 +17,7 @@
      1. What needs to be done first, e.g., dependencies among tasks is any
      1. Some aspects of risk management: if something does not work, what alternatives will be tried
 
-1. The main educational purpose is to
+1. The primary reasons to create project plans are
    1. introduce project management
    1. reduce the risk to the final project
 
