@@ -5,21 +5,18 @@
 
 ## [Oct 9]
 * Formal proposals with the objective workplan, etc. for the final project are delayed until Oct 12
-* Here are more details:
-
-1. The goals and motivation can be unchanged if they are the same as in the sales pitch.
-
-1. Here are some key pieces I am looking for:
+* No need to change goals and motivation if they stay the same as in the sales pitch.
+* Key new pieces I am looking for in the project proposal:
   * Work breakdown, assignment, and schedule
-     1. What, When, Who
-     1. Two intermediate deliveries and final delivery before Dec 3
-     1. What data will be needed, how it will be retrieved and processed
-     1. What needs to be done first, e.g., dependencies among tasks is any
-     1. Some aspects of risk management: if something does not work, what alternatives will be tried
+     1. What, When, Who?
+     1. One or two intermediate deliveries with the final delivery before Dec 3?
+     1. What data will be needed, how it will be retrieved and processed?
+     1. What needs to be done first? E.g., dependencies among tasks.
+     1. Element of risk management: if something does not work, what alternatives will be tried?
 
-1. The primary reasons to create project plans are
-   1. introduce project management
-   1. reduce the risk to the final project
+1. Why project plans are needed?
+   1. to practice project management
+   1. to reduce the risk to the final project
 
 
 ## [Oct 7]
