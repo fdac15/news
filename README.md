@@ -18,8 +18,8 @@
      1. Some aspects of risk management: if something does not work, what alternatives will be tried
 
 1. The main educational purpose is to
-   a. introduce project management
-   a. reduce the risk to the final project
+   1. introduce project management
+   1. reduce the risk to the final project
 
 
 ## [Oct 7]
