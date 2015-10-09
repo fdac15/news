@@ -4,7 +4,23 @@
 * Formal proposals with the objective workplan, etc. for the final project will be presented.
 
 ## [Oct 9]
-* Formal proposals with the objective workplan, etc. for the final project will be presented.
+* Formal proposals with the objective workplan, etc. for the final project are delayed until Oct 12
+* Here are more details:
+
+1. The goals and motivation can be unchanged if they are the same as in the sales pitch.
+
+1. Here are some key pieces I am looking for:
+  * Work breakdown, assignment, and schedule
+     a. What, When, Who
+     a. Two intermediate deliveries and final delivery before Dec 3
+     a. What data will be needed, how it will be retrieved and processed
+     a. What needs to be done first, e.g., dependencies among tasks is any
+     a. Some aspects of risk management: if something does not work, what alternatives will be tried
+
+1. The main educational purpose is to
+   a. introduce project management
+   a. reduce the risk to the final project
+
 
 ## [Oct 7]
 * Class time reserved for groups to meet and prepare the workplan, primary assignments, and schedule for the final project.
