@@ -1,5 +1,16 @@
 # Syllabus for "Fundamentals of Digital Archeology"
 
+## [Oct 23]
+* Storage assignment is due
+
+## [Oct 19, 21]
+* Class time dedicated to coordinate work on final project
+
+## [Oct 16]  Fall break
+
+## [Oct 14]
+* Data storage/ and initial analysis assignment
+
 ## [Oct 12]
 * Formal proposals with the objective workplan, etc. for the final project will be presented.
 
