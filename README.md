@@ -10,7 +10,7 @@
 
 ## [Oct 14]
 * Data storage/ and initial analysis assignment
-* Please complete the spreadsheet: Forges 11, 21, 22, 24, 29, 33, 40 are missing. Many of them are inaccessible or in other ways less interesting, but please post your results into the notes field if no data could be obtained. 
+* Please complete the [spreadsheet](https://docs.google.com/spreadsheets/d/1Wbc4ZONGnNoY15x8jaComQu_2SUrMdlsJgDTHfAyfpM/edit?usp=sharing): Forges 11, 21, 22, 24, 29, 33, 40 are missing. Many of them are inaccessible or in other ways less interesting, but please post your results into the notes field if no data could be obtained. 
 
 ## [Oct 12]
 * Formal proposals with the objective workplan, etc. for the final project will be presented.
