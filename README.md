@@ -2,6 +2,16 @@
 
 ## [Oct 23]
 * Storage assignment is due
+*  We will discuss issues with the assignment and how to proceed to the next step.
+  * For measures you can do any of the following
+     1. use bitbucket or github: both have a a number of fields that are similar
+     1. use additional collections in Top40Forges database that contain many fields
+        1. e.g. Launchpad
+     3. get additional attributes for the chosen forges by scraping project pages
+  * Even if you do not have all desired predictors/response, pose a hypthesis on 
+     1. How the response should change in response to change in predictors
+     2. How that relationship might vary betwen the two forges
+* Discuss any issues arising in final projects
 
 ## [Oct 19, 21]
 * Class time dedicated to coordinate work on final project
