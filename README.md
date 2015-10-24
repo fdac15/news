@@ -323,6 +323,10 @@ This class assumes you are confident with this material, but in case you need a 
 * [Mining the Social Web, 2nd Edition](http://shop.oreilly.com/product/0636920030195.do)
 * [Interesting data visualizations using D3.js and more](https://www.jasondavies.com/)
 
+##### Databases
+
+* <https://github.com/variety/variety> - A MongoDB Schema Analyzer. One JavaScript file that you run with the mongo shell command on a database collection and it attempts to come up with a generalized schema of the datastore. It was also written about on the official MongoDB blog.
+
 ##### R and data analysis
 * Modern Applied Statistics with S (4th Edition) by William
   N. Venables, Brian D. Ripley. ISBN0387954570
