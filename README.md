@@ -1,5 +1,20 @@
 # Syllabus for "Fundamentals of Digital Archeology"
 
+## [Oct 28]
+* Will continue looking into the homework assignment
+
+## [Oct 26]
+* If docker containers are running slow, I have created another set of containers on da3.eecs.utk.edu
+   1. The home directory will still be the same
+* If the mongodb on da0 is running slow, there is another instance of mongodb set on da1
+   1. The databases on da0 and da1 are not shared, so you'll need to recreate them
+   2. da1 is a sharded instance, so if you partition your database or collection, can run hadoop like processing on the three shards
+* Notes on mongodb schemas on da0
+   1. github collection repos has two types of records
+      1. Retrieved via user/XXXX/repos where the resulting repos for each user are store in the field 'values'
+      2. Retrieved via repositories API, where is not much useful info (and no field 'values')
+   1. github and bitbucket repos have different fields
+
 ## [Oct 23]
 * Storage assignment is due
 *  We will discuss issues with the assignment and how to proceed to the next step.
