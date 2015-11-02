@@ -1,7 +1,15 @@
 # Syllabus for "Fundamentals of Digital Archeology"
 
-## [Oct 28]
-* Will continue looking into the homework assignment
+## [Nov 2] 
+* Please open a PR for your homework to "discovery" project
+  1. If it is in TXP1 or elswhere, just add yourGHhandle.md to discovery that indicats where it can be found
+* Open topics: questions on final project
+* Modelling: the question of transforming the data, anova vs regression, etc
+* Data structures: How to convert from MongoDB to table?
+
+
+## [Oct 28-30]
+* Discuseed the homework assignment
 
 ## [Oct 26]
 * If docker containers are running slow, I have created another set of containers on da3.eecs.utk.edu
