@@ -6,7 +6,7 @@
   2. Docker containers
   3. Mongodb
   3. Data structures, e.g., dictionaries
-  4. (Ew-)Introduction to R and modelling
+  4. (Re-)Introduction to R and modelling
 
 
 ## [Nov 4-6] 
