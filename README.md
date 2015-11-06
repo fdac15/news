@@ -1,5 +1,18 @@
 # Syllabus for "Fundamentals of Digital Archeology"
 
+## [Nov 9-13] 
+* Review session on various magic things we used
+  1. Sockets/tunnels
+  2. Docker containers
+  3. Mongodb
+  3. Data structures, e.g., dictionaries
+  4. (Ew-)Introduction to R and modelling
+
+
+## [Nov 4-6] 
+* Session for questions on homework and final project
+* Please don't forget to open a PR for your homework to "discovery" project
+
 ## [Nov 2] 
 * Please open a PR for your homework to "discovery" project
   1. If it is in TXP1 or elswhere, just add yourGHhandle.md to discovery that indicats where it can be found
