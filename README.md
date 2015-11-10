@@ -10,7 +10,7 @@
   1. Data structures, e.g., dictionaries
 
 ## [Nov 9-13] 
-* Review session on various magic things we used [slides](https://github.com/fdac15/presentations/blob/master/magic.pdf)
+* Review session on various magic things we used: [slides](https://github.com/fdac15/presentations/blob/master/magic.pdf)
   1. Ports/Sockets/tunnels/firewalls
   1. Docker containers
 
