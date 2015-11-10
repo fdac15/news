@@ -8,7 +8,8 @@
 * Review session on various magic things we used
   1. Mongodb
   1. Data structures, e.g., dictionaries
-
+  1. [slides](https://github.com/fdac15/presentations/blob/master/magic.pdf)
+   
 ## [Nov 9-13] 
 * Review session on various magic things we used
   1. Ports/Sockets/tunnels/firewalls
