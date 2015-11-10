@@ -1,12 +1,16 @@
 # Syllabus for "Fundamentals of Digital Archeology"
 
+## [Nov 13] 
+  1. (Re-)Introduction to R and modelling
+
+## [Nov 11] 
+  1. Mongodb
+  1. Data structures, e.g., dictionaries
+
 ## [Nov 9-13] 
 * Review session on various magic things we used
-  1. Sockets/tunnels
-  2. Docker containers
-  3. Mongodb
-  3. Data structures, e.g., dictionaries
-  4. (Re-)Introduction to R and modelling
+  1. Ports/Sockets/tunnels/firewalls
+  1. Docker containers
 
 
 ## [Nov 4-6] 
