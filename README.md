@@ -1,9 +1,11 @@
 # Syllabus for "Fundamentals of Digital Archeology"
 
 ## [Nov 13] 
+* Review session on various magic things we used
   1. (Re-)Introduction to R and modelling
 
 ## [Nov 11] 
+* Review session on various magic things we used
   1. Mongodb
   1. Data structures, e.g., dictionaries
 
