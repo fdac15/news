@@ -9,7 +9,7 @@
   1. Database history
   1. Mongodb
   1. Data structures, e.g., dictionaries
-* If you had a large file thats stuck iin your git history, [bfg](https://rtyley.github.io/bfg-repo-cleaner/) claims to remove it easily
+* If you had a large file thats stuck iin your git history where github refuses to accept yourt push, [BFG](https://rtyley.github.io/bfg-repo-cleaner/) claims to remove it easily
 
 ## [Nov 9-13] 
 * Review session on various magic things we used: [slides](https://github.com/fdac15/presentations/blob/master/magic.pdf)
