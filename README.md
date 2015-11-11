@@ -1,4 +1,15 @@
 # Syllabus for "Fundamentals of Digital Archeology"
+## [Nov 30] Final project presentations
+* Please schedule
+
+## [Nov 25] Final project presentations 
+* Please schedule
+
+## [Nov 23] Final project presentations 
+* Please schedule
+
+## [Nov 16-20] 
+* Last questions related to final project
 
 ## [Nov 13] 
 * Review session on various magic things we used
