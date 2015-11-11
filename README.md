@@ -8,13 +8,18 @@
 ## [Nov 23] Final project presentations 
 * Please schedule
 
-## [Nov 16-20] 
+## [Nov 18-20] 
 * Last questions related to final project
+
+## [Nov 16]
+* Last questions related to final project
+* Instructions on how to use AWS
 
 ## [Nov 13] 
 * Review session on various magic things we used
   1. (Re-)Introduction to R and modelling
-
+  1. Please bring your final project questions!
+  
 ## [Nov 11] 
 * Review session on various magic things we used: [slides](https://github.com/fdac15/presentations/blob/master/db.pdf)
   1. Database history
