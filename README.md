@@ -20,7 +20,7 @@
 * Instructions on how to use AWS
 
 ## [Nov 13] 
-* Review session on various magic things we used
+* Review session on various magic things we used: [notebook](https://github.com/fdac15/presentations/blob/master/statsRvisited.ipynb)
   1. (Re-)Introduction to R and modelling
   1. Please bring your final project questions!
   
