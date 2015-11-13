@@ -1,12 +1,16 @@
 # Syllabus for "Fundamentals of Digital Archeology"
+## [Dec 8 2:45-5:45] Final project presentations
+  * In case earlier slots fill up
+
 ## [Nov 30] Final project presentations
 * Full (four presentations already)
 
-## [Nov 25] Final project presentations 
+## [Nov 25] Final project presentations
 * Please schedule by opening an issue on fdac15/news
 
 ## [Nov 23] Final project presentations 
 * Please schedule by opening an issue on fdac15/news
+  1. Skyrim
 
 ## [Nov 18-20] 
 * Last questions related to final project
