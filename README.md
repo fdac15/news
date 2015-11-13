@@ -3,7 +3,11 @@
   * In case earlier slots fill up
 
 ## [Nov 30] Final project presentations
-* Full (four presentations already)
+* Full
+  1. Foreseer
+  2. Bitcoin
+  1. TechDiversity
+  2. OssFinder
 
 ## [Nov 25] Final project presentations
 * Please schedule by opening an issue on fdac15/news
