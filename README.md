@@ -11,7 +11,8 @@
 
 ## [Nov 25] Final project presentations
 * Please schedule by opening an issue on fdac15/news
-
+  1. Amazon reviews
+  
 ## [Nov 23] Final project presentations 
 * Please schedule by opening an issue on fdac15/news
   1. Skyrim
