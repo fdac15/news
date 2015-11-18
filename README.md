@@ -23,7 +23,13 @@
 
 ## [Nov 18] 
 * Last questions related to final project
-* Course evaluation form
+* Course evaluation (The Student Assessment of Instruction System (SAIS))
+   1. What should change
+   2. What should stay the same
+   3. What you did not like
+   4. What you liked
+   3. Add/drop material
+   4. More/less lecture material
 * Further reading on [Data Science](https://github.com/datasciencemasters/go)
 
 ## [Nov 16]
