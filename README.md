@@ -1,13 +1,12 @@
 # Syllabus for "Fundamentals of Digital Archeology"
 ## [Dec 8 2:45-5:45] Final project presentations
-  * In case earlier slots fill up
+  * Foreseeer
+  * Fukushims
+  * BitCoin
 
 ## [Nov 30] Final project presentations
-* Full
-  1. Foreseer
-  2. Bitcoin
-  1. TechDiversity
-  2. OssFinder
+* TechDiversity
+* OssFinder
 
 ## [Nov 25] Final project presentations
 * Please schedule by opening an issue on fdac15/news
@@ -16,7 +15,7 @@
 ## [Nov 23] Final project presentations 
 * Please schedule by opening an issue on fdac15/news
   1. Skyrim
-  2. CompetitionLanguages
+  2. Competition Languages
 
 ## [Nov 20]
 * Last questions related to final project
