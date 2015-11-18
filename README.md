@@ -18,8 +18,13 @@
   1. Skyrim
   2. CompetitionLanguages
 
-## [Nov 18-20] 
+## [Nov 20]
 * Last questions related to final project
+
+## [Nov 18] 
+* Last questions related to final project
+* Course evaluation form
+* Further reading on [Data Science](https://github.com/datasciencemasters/go)
 
 ## [Nov 16]
 * Last questions related to final project
