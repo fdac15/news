@@ -16,6 +16,7 @@
 ## [Nov 23] Final project presentations 
 * Please schedule by opening an issue on fdac15/news
   1. Skyrim
+  2. CompetitionLanguages
 
 ## [Nov 18-20] 
 * Last questions related to final project
