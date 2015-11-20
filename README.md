@@ -3,10 +3,10 @@
   * Foreseeer
   * Fukushims
   * BitCoin
+  * OssFinder
 
 ## [Nov 30] Final project presentations
 * TechDiversity
-* OssFinder
 
 ## [Nov 25] Final project presentations
 * Please schedule by opening an issue on fdac15/news
