@@ -4,6 +4,7 @@
   * Fukushims
   * BitCoin
   * OssFinder
+  * Stock analysis
 
 ## [Nov 30] Final project presentations
 * TechDiversity
