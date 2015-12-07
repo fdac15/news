@@ -4,7 +4,7 @@
      - All are cordially invited!
   * 2:45-4:45 final presentations
    - Foreseeer
-   - Fukushims
+   - Fukushima
    - BitCoin (Team 1)
    - OssFinder
    - Stock analysis
