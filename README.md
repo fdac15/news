@@ -2,16 +2,17 @@
 ## [Dec 8] Class lunch and final project presentations
   * At 12-1:20 Lunch at Tomato Head, 12 MARKET SQUARE KNOXVILLE, TENNESSEE 37902
      - All are cordially invited!
-  * 2:45-4:45 final presentationss
+  * 2:45-4:45 final presentations
    - Foreseeer
    - Fukushims
-   - BitCoin
+   - BitCoin (Team 1)
    - OssFinder
    - Stock analysis
   * I am still waiting for pull requests on the discovery project! Please submit if you have not done so.
 
 ## [Nov 30] Final project presentations
 * TechDiversity
+* BitCoin (Team 2)
 
 ## [Nov 25] Final project presentations
 * Please schedule by opening an issue on fdac15/news
