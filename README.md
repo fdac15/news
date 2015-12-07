@@ -3,7 +3,7 @@
   * At 12-1:20 Lunch at Tomato Head, 12 MARKET SQUARE KNOXVILLE, TENNESSEE 37902
      - All are cordially invited!
   * 2:45-4:45 final presentations
-   - Foreseeer
+   - Foreseer
    - Fukushima
    - BitCoin (Team 1)
    - OssFinder
