@@ -1,10 +1,14 @@
 # Syllabus for "Fundamentals of Digital Archeology"
-## [Dec 8 2:45-5:45] Final project presentations
-  * Foreseeer
-  * Fukushims
-  * BitCoin
-  * OssFinder
-  * Stock analysis
+## [Dec 8] Class lunch and final project presentations
+  * At 12-1:20 Lunch at Tomato Head, 12 MARKET SQUARE KNOXVILLE, TENNESSEE 37902
+     - All are cordially invited!
+  * 2:45-4:45 final presentationss
+   - Foreseeer
+   - Fukushims
+   - BitCoin
+   - OssFinder
+   - Stock analysis
+  * I am still waiting for pull requests on the discovery project! Please submit if you have not done so.
 
 ## [Nov 30] Final project presentations
 * TechDiversity
